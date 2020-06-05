@@ -1,0 +1,44 @@
+body{
+    background: rgb(255, 255, 255);
+    margin-left: 5mm;
+    margin-right: 5cm;
+}
+
+header {
+    margin-top: 50px;
+}
+
+h1{
+    color: darkblue;
+    font-family: Cambria;
+}
+
+h2{
+    margin-top: 25px;
+    font-family: Cambria;
+}
+
+p{
+    font-size: 20px;
+}
+
+footer{
+    font-family: cursive;
+    margin-bottom: 20px;
+}
+
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 700px;
+}
+
+.logo{
+    width: 100px;
+ 
+}
+
+.telefone{
+    width: 80px;
+    margin-left: 10px;
+}
